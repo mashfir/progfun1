@@ -1,0 +1,12 @@
+;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/zp/zzzp3_qn62x3y83h1k0wfpw80000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/mashfir/Library/Application Support/IntelliJIdea2019.3/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+submit utilitytrolly@tutanota.com AIzu7GjDROOe13Nv
+submit utilitytrolly@tutanota.com PtOPk3y9S52EUBqW
+submit utilitytrolly@tutanota.com 4Yk4Iy08mW77fb28
+submit utilitytrolly@tutanota.com EEEfIepxezuHfKi6
+submit utilitytrolly@tutanota.com 8h6TGKvfhkz9DZDg
+submit utilitytrolly@tutanota.com 983sVP5ZzI7wHIHI
+submit utilitytrolly@tutanota.com BcIvQQvfa9Oguhgt
+submit utilitytrolly@tutanota.com qk6lGhvt36npfwAG
+test
+submit utilitytrolly@tutanota.com qk6lGhvt36npfwAG
+submit utilitytrolly@tutanota.com 2jdSDhvvCvYye6Yt

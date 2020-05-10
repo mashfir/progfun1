@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/mashfir/IdeaProjects/example/src/main/scala/example/Lists.scala:56:12: recursive method loop needs result type[0m
+[0m[[0m[31merror[0m] [0m[0m      else loop(xs.tail, max_between(xs.head, acc))[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
